@@ -407,6 +407,9 @@ color:#B6B6B6 !important;
 .focusBox .next:hover { filter:alpha(opacity=60); -moz-opacity:.6; opacity:.6 }
 .focusBox .prev{ margin-left:224px;}
 
+#disqus_thread {
+    width: 1200px;
+}
 
 
 
