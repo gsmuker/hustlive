@@ -407,10 +407,10 @@ color:#B6B6B6 !important;
 .focusBox .next:hover { filter:alpha(opacity=60); -moz-opacity:.6; opacity:.6 }
 .focusBox .prev{ margin-left:224px;}
 
-#disqus_thread {
+#layout {
     width: 1200px;
+    margin: 0 auto;
 }
-
 
 
 
